@@ -1,34 +1,38 @@
 # 👋 Hola, soy Jonathan David Signes Falcó
 
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-💻 Apasionado por el desarrollo de software, las aplicaciones multiplataforma y las nuevas tecnologías  
-🚀 En constante aprendizaje y mejora continua
+💻 Desarrollo de software | Aplicaciones multiplataforma  
+🚀 En aprendizaje continuo y orientado a buenas prácticas
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**, con interés en el desarrollo de software, aplicaciones interactivas y tecnologías modernas orientadas a la experiencia de usuario.  
-Me gusta trabajar tanto en frontend como en backend, siempre buscando soluciones eficientes, escalables y bien estructuradas.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**, con interés en el desarrollo de software, la programación orientada a objetos y la creación de aplicaciones funcionales y bien estructuradas.
 
-Actualmente utilizo GitHub como plataforma principal para:
+Utilizo GitHub como mi principal espacio para:
 - Publicar proyectos académicos y personales  
-- Practicar buenas prácticas de desarrollo  
+- Aplicar control de versiones con Git  
 - Documentar mi evolución como desarrollador  
 
 ---
 
-## 🎓 Formación
+## 📊 Estadísticas de GitHub
 
-- **Ciclo Formativo de Grado Superior**  
-  **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-  *(En curso)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonimax11000&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonimax11000&layout=compact)
+
+---
+
+## 🔥 Actividad
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jonimax11000)
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-**Lenguajes de programación**
+**Lenguajes**
 - Java
 - C#
 - Kotlin
@@ -52,18 +56,27 @@ Actualmente utilizo GitHub como plataforma principal para:
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos
 
 🔹 **Proyectos académicos**
-- Aplicaciones multiplataforma desarrolladas durante el ciclo DAM
-- Prácticas con arquitectura MVC y orientación a objetos
-- Uso de control de versiones con Git
+- Desarrollo de aplicaciones multiplataforma
+- Prácticas con programación orientada a objetos
+- Uso de Git para control de versiones
 
 🔹 **Proyectos personales**
-- Desarrollo y pruebas de aplicaciones en distintos lenguajes
-- Experimentación con nuevas tecnologías y herramientas
+- Aplicaciones de prueba y aprendizaje
+- Experimentación con distintos lenguajes y entornos
 
-> 📌 Puedes ver todos mis proyectos públicos en la pestaña **Repositories**.
+📌 *Consulta mis repositorios destacados directamente en mi perfil de GitHub.*
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Arquitecturas de software
+- Buenas prácticas de desarrollo
+- Desarrollo multiplataforma
+- Trabajo colaborativo y metodologías ágiles
 
 ---
 
@@ -75,13 +88,4 @@ Actualmente utilizo GitHub como plataforma principal para:
 
 ---
 
-## 🌱 Actualmente aprendiendo
-
-- Mejores prácticas de desarrollo de software
-- Arquitecturas de aplicaciones
-- Desarrollo multiplataforma
-- Trabajo en equipo y metodologías ágiles
-
----
-
-⭐ *Gracias por visitar mi perfil. ¡No dudes en contactar conmigo!*
+⭐ *Gracias por visitar mi perfil. Siempre abierto a aprender y mejorar.*
