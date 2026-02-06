@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jonathan David Signes Falcó
 
-<!--
-**jonimax11000/jonimax11000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+- Estudiando
+- 📫 Cómo contactarme:
+  - Teléfono: +34 623294366
+  - Correo: jonimax11000@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estadísticas
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
