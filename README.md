@@ -45,15 +45,15 @@
 
 ---
 
-## 📊 **Estadísticas de GitHub**
+##📊 Estadísticas de GitHub
+<div align="center"><!-- Estadísticas principales -->
+https://github-readme-stats.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&count_private=true&hide_border=true
 
-<div align="center">
+<!-- Lenguajes más usados -->
+https://github-readme-stats.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&langs_count=6
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jonimax11000&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<!-- GitHub Streak -->
+https://streak-stats.demolab.com?user=jonimax11000&theme=radical&hide_border=true&date_format=j%2520M%255B%2520Y%255D
 
 </div>
 
