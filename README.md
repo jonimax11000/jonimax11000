@@ -49,11 +49,11 @@
 
 <div align="center">
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true&langs_count=6)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=jonimax11000&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
