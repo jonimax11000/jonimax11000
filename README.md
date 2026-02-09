@@ -49,11 +49,15 @@
 
 <div align="center">
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400)
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/jonimax11000)
+![Followers](https://img.shields.io/github/followers/jonimax11000?style=flat&color=green)
+![Stars](https://img.shields.io/github/stars/jonimax11000?style=flat&color=yellow)
+![Contributions](https://img.shields.io/github/commit-activity/m/jonimax11000?color=orange)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400)
+<!-- Con diseño personalizado -->
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical)](https://github.com/jonimax11000)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jonimax11000&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical)](https://github.com/jonimax11000)
 
 </div>
 
