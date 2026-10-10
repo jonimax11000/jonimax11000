@@ -65,8 +65,8 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 <br/>
 
 <!-- Estadísticas calculadas automáticamente en tiempo real por GitHub -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 
 <br/>
 
@@ -82,8 +82,14 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 ## 🚀 Proyectos Destacados
 
-> **🎮 Proyecto Unity / C#**  
-> Desarrollo de mecánicas interactivas y shaders en Unity con C#.
+> **🌟 [EviroCero](https://github.com/jonimax11000/EviroCero)** `(Proyecto Insignia • Privado)`  
+> Proyecto principal de alto impacto enfocado en resolver problemáticas clave mediante soluciones tecnológicas avanzadas.
+
+> **🤖 [Jarvis](https://github.com/jonimax11000/jarvis)** `(Proyecto Más Ambicioso • Privado)`  
+> Sistema inteligente integral inspirado en asistencia automatizada, procesamiento de datos y modelos de Inteligencia Artificial.
+
+> **🎮 Proyecto Unity / C# / Realidad Virtual**  
+> Desarrollo de mecánicas interactivas y experiencias inmersivas con realidad virtual (RV) y shaders en Unity con C#.
 
 > **📱 Aplicaciones Multiplataforma (Flutter / Dart)**  
 > Aplicaciones móviles adaptativas con consumo de servicios y diseño responsivo.
