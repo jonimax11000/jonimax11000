@@ -13,9 +13,9 @@
 ## 👨‍💻 Sobre mí
 Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente curso una especialización en **Inteligencia Artificial y Big Data**. Me apasiona crear soluciones tecnológicas eficientes e integrar tecnologías modernas en mis proyectos.
 
-- 🔭 Actualmente trabajando en perfeccionar mi stack y mis proyectos, integrando nuevas tecnologías.
-- 🌱 Aprendiendo: **Inteligencia Artificial, Big Data, Patrones de diseño y Arquitecturas Limpias**.
-- 💬 Pregúntame sobre: **Java, Kotlin, React y desarrollo móvil**.
+- 🔭 Actualmente trabajando en proyectos con Inteligencia Artificial, Big Data y desarrollo multiplataforma.
+- 🌱 Especializándome en: **Machine Learning, Big Data, Unity, Odoo y arquitecturas modernas**.
+- 💬 Pregúntame sobre: **Python, C#, Unity, Flutter, Vue, PostgreSQL y Odoo**.
 - 🌍 Disponible para oportunidades en España o remoto.
 
 ---
@@ -23,23 +23,27 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 ## 🛠️ Stack Tecnológico
 
 ### **Lenguajes de Programación**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Desarrollo Móvil**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### **Frameworks, Motores & ERP**
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ### **Frontend & Backend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### **Bases de Datos & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -60,6 +64,7 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 <br/>
 
+<!-- Estadísticas calculadas automáticamente en tiempo real por GitHub -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 
@@ -77,26 +82,26 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 ## 🚀 Proyectos Destacados
 
-> **🛒 E-Commerce App**  
-> Aplicación móvil completa con carrito, pasarela de pagos y panel admin. *(Flutter • Firebase)*
+> **🎮 Proyecto Unity / C#**  
+> Desarrollo de mecánicas interactivas y shaders en Unity con C#.
 
-> **📱 Task Manager**  
-> Gestor de tareas con notificaciones, categorías y estadísticas. *(Android • Kotlin • Room)*
+> **📱 Aplicaciones Multiplataforma (Flutter / Dart)**  
+> Aplicaciones móviles adaptativas con consumo de servicios y diseño responsivo.
 
-> **🌐 Portfolio Web**  
-> Sitio web personal responsive con blog integrado. *(React • Node.js)*
+> **💼 Gestión Empresarial & ERP (Odoo / Python)**  
+> Módulos y personalizaciones sobre Odoo respaldados por bases de datos PostgreSQL.
 
 ---
 
 ## 🤝 Colaboración
 Estoy abierto a:
-- 💻 Proyectos académicos colaborativos  
+- 💻 Proyectos colaborativos en IA, Big Data o Videojuegos  
 - 🏢 Prácticas o trabajo en empresas tecnológicas  
 - 🌐 Contribuir a proyectos open source  
 - 🤝 Networking con otros desarrolladores  
 
 <div align="center">
 
-*"Transformando ideas en soluciones digitales con IA y desarrollo multiplataforma"*
+*"Transformando ideas en soluciones digitales con IA, Big Data y desarrollo multiplataforma"*
 
 </div>
