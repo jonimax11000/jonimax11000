@@ -60,7 +60,6 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/jonimax11000)
 ![Followers](https://img.shields.io/github/followers/jonimax11000?style=flat&color=green)
 ![Stars](https://img.shields.io/github/stars/jonimax11000?style=flat&color=yellow)
-![Contributions](https://img.shields.io/github/commit-activity/m/jonimax11000?color=orange)
 
 <br/>
 
