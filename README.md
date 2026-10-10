@@ -24,15 +24,17 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 ### **Lenguajes de Programación**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **Frameworks, Motores & ERP**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
@@ -50,6 +52,7 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -79,22 +82,43 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Insignia & Destacados
 
-> **🌟 [EviroCero](https://github.com/jonimax11000/EviroCero)** `(Proyecto Insignia • Privado)`  
-> Proyecto principal de alto impacto enfocado en resolver problemáticas clave mediante soluciones tecnológicas avanzadas.
+### 🌟 [EviroCero](https://github.com/jonimax11000/EviroCero) — *Ecosistema ZBE & Movilidad Inteligente (Proyecto Startup)* `Privado`
+> **Slogan:** *"Tu coche, tu ciudad, tus reglas claras."*  
+> Trabajo de fin de ciclo formativo (DAM) concebido como la base tecnológica para una **startup de movilidad urbana y sostenibilidad**. Plataforma integral que informa a conductores sobre las **Zonas de Bajas Emisiones (ZBE)**, calcula el distintivo ambiental DGT del vehículo, notifica restricciones de circulación y optimiza trayectorias viales.
+>
+> **Arquitectura Multi-Servidor & Microservicios:**
+> - 📱 **Frontend Móvil:** Desarrollado con **Flutter / Dart** para experiencia adaptativa, interactiva y geolocalizada en iOS y Android.
+> - 🏢 **Backend ERP & Gestión:** **Odoo** (módulos personalizados) respaldado por **PostgreSQL 15** para administración de regulaciones, noticias y usuarios.
+> - ⚙️ **Servicios de Alto Rendimiento:** Microservicios con **Spring Boot (Java)** y capas API reactivas con **Node.js (TypeScript)**.
+> - 🗺️ **Motor Geoespacial y Rutas:** Motor de enrutamiento integrado con **GraphHopper** para el cálculo de rutas respetando restricciones medioambientales.
+> - 🌐 **Infraestructura:** Orquestación integral de contenedores con **Docker Compose** y proxy inverso seguro con **Nginx (SSL/TLS)**.
 
-> **🤖 [Jarvis](https://github.com/jonimax11000/jarvis)** `(Proyecto Más Ambicioso • Privado)`  
-> Sistema inteligente integral inspirado en asistencia automatizada, procesamiento de datos y modelos de Inteligencia Artificial.
+---
 
-> **🎮 [Teclado VR](https://github.com/jonimax11000/Teclado)** `(Unity • C# • Realidad Virtual)`  
-> Proyecto interactivo de teclado inmersivo para Realidad Virtual (RV), desarrollado en Unity utilizando C# y shaders personalizados.
+### 🤖 [JARVIS](https://github.com/jonimax11000/jarvis) — *Asistente Personal Local con IA Autónoma & Orquestador Multi-Agente* `Privado`
+> Asistente de Inteligencia Artificial **100% local, agnóstico de hardware y sin dependencias de la nube**. Diseñado con privacidad total y memoria cifrada, capaz de adaptarse dinámicamente al hardware del sistema (RAM/VRAM) y autoprogramar nuevas capacidades.
+>
+> **Capacidades & Tecnologías Clave:**
+> - 🧠 **Orquestación de LLMs Locales:** Motor con **Ollama** adaptativo según VRAM (`DeepSeek-R1`, `Qwen3`, `Phi-4`) con modos de razonamiento profundo y auto-descarga.
+> - 🗣️ **Voz & Audio Neuronal:** Reconocimiento de voz ultra-rápido con **Faster-Whisper** y síntesis de voz natural en español con **Piper TTS**.
+> - 👁️ **Agente Web Visual & Headhunter:** Navegación autónoma con **browser-use** y **Playwright** para exploración web interactiva y análisis de ofertas.
+> - 🔌 **Protocolo MCP & Autoprogramación:** Cliente nativo para **Model Context Protocol (STDIO)**, arquitectura de plugins modulares (*Plug & Play*) y bucle de autocorrección de código.
+> - 🔒 **Seguridad & Persistencia:** Memoria a largo plazo en **SQLite** cifrada con **AES-256 (Fernet)** y gestor autónomo de tareas tipo Kanban.
 
-> **💼 [Ecosistema Odoo](https://github.com/jonimax11000/Odoo)** `(Odoo 19 • Python • PostgreSQL)`  
-> Colección de módulos personalizados organizados por ramas (Odoo 19), incluyendo integración de IA (`cookast_ai`), servicios meteorológicos (`cookast_weather`) y planificación de turnos (`shift_planner`).
+---
 
-> **📱 Aplicaciones Multiplataforma (Flutter / Dart)**  
-> Aplicaciones móviles adaptativas con consumo de APIs, servicios y diseño responsivo.
+### 🎮 [Teclado VR](https://github.com/jonimax11000/Teclado) — *Interacción Inmersiva en Realidad Virtual*
+> Proyecto interactivo de teclado inmersivo para Realidad Virtual (RV), desarrollado en **Unity** con **C#**, mecánicas de interacción espacial y shaders personalizados (ShaderLab / HLSL).
+
+---
+
+### 💼 [Ecosistema Odoo](https://github.com/jonimax11000/Odoo) — *Desarrollo Modular Empresarial (Odoo 19)*
+> Colección de módulos personalizados organizados por ramas (Odoo 19 / Python / PostgreSQL):
+> - 🤖 `cookast_ai_19.0`: Integración con Inteligencia Artificial.
+> - 🌦️ `cookast_weather_19.0`: Automatización y consumo de APIs meteorológicas.
+> - ⏱️ `shift_planner_19.0`: Planificador avanzado de turnos laborales.
 
 ---
 
