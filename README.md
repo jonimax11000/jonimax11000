@@ -87,14 +87,14 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 > **🤖 [Jarvis](https://github.com/jonimax11000/jarvis)** `(Proyecto Más Ambicioso • Privado)`  
 > Sistema inteligente integral inspirado en asistencia automatizada, procesamiento de datos y modelos de Inteligencia Artificial.
 
-> **🎮 Proyecto Unity / C# / Realidad Virtual**  
-> Desarrollo de mecánicas interactivas y experiencias inmersivas con realidad virtual (RV) y shaders en Unity con C#.
+> **🎮 [Teclado VR](https://github.com/jonimax11000/Teclado)** `(Unity • C# • Realidad Virtual)`  
+> Proyecto interactivo de teclado inmersivo para Realidad Virtual (RV), desarrollado en Unity utilizando C# y shaders personalizados.
+
+> **💼 [Ecosistema Odoo](https://github.com/jonimax11000/Odoo)** `(Odoo 19 • Python • PostgreSQL)`  
+> Colección de módulos personalizados organizados por ramas (Odoo 19), incluyendo integración de IA (`cookast_ai`), servicios meteorológicos (`cookast_weather`) y planificación de turnos (`shift_planner`).
 
 > **📱 Aplicaciones Multiplataforma (Flutter / Dart)**  
-> Aplicaciones móviles adaptativas con consumo de servicios y diseño responsivo.
-
-> **💼 Gestión Empresarial & ERP (Odoo / Python)**  
-> Módulos y personalizaciones sobre Odoo respaldados por bases de datos PostgreSQL.
+> Aplicaciones móviles adaptativas con consumo de APIs, servicios y diseño responsivo.
 
 ---
 
