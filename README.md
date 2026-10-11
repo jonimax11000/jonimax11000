@@ -97,17 +97,18 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 ---
 
-### 🤖 [JARVIS](https://github.com/jonimax11000/jarvis) — *Asistente Personal Local & Ecosistema Omni-Agente Autónomo* `v7.1.0` `Privado`
-> Asistente de Inteligencia Artificial **100% local, agnóstico de hardware y sin dependencias de la nube**, diseñado bajo **SemVer 2.0.0 (`v7.1.0`)**. Arquitectura multi-sistema (Windows/Linux) capaz de balancear dinámicamente el uso de VRAM/RAM, ejecutar pensamiento autónomo en segundo plano y autoprogramar nuevas herramientas con bucles de autorrevisión.
+### 🤖 [JARVIS](https://github.com/jonimax11000/jarvis) — *Asistente Personal Local & Ecosistema Omni-Agente Autónomo* `v7.2.0` `Privado`
+> Asistente de Inteligencia Artificial **100% local, agnóstico de hardware y sin dependencias de la nube**, gobernado bajo **SemVer 2.0.0 (`v7.2.0`)** y estructurado en **47 fases de ingeniería agéntica**. Cuenta con arquitectura multi-sistema nativa (Windows, Nobara, CachyOS), balanceo dinámico de VRAM/RAM, demonio de pensamiento proactivo en reposo, micro-agentes con amnesia controlada por sprint y autoprogramación segura.
 >
 > **Capacidades & Tecnologías Clave:**
-> - 🧠 **Orquestación Multi-Modelo & Reasoning:** Motor local con **Ollama** adaptativo según VRAM (`DeepSeek-R1`, `Qwen3`, `Phi-4`) para razonamiento profundo, Fast-Path neural con Laya y descarga automática.
-> - 🎯 **Dynamic Skill Routing & AutoResearch:** Enrutamiento inteligente de habilidades (`Fast-Path` + detección de brechas), bucle de optimización evolutiva de workflows y catálogo abierto de *Open Agent Skills*.
-> - 🚀 **Ruteo Agéntico CLI & Multi-Agente:** Delegación en Capa 4 a agentes CLI externos (`Antigravity`, `Claude Code`, `Aider`) con optimización de contexto y ahorro de tokens (-45% con Ponytail).
-> - 👁️ **Agente Web Visual & Headhunter:** Navegación autónoma con **browser-use** y **Playwright** para exploración web interactiva, evaluación inteligente y postulación a ofertas.
-> - 🗣️ **Voz & Audio Neuronal:** Reconocimiento de voz en tiempo real con **Faster-Whisper** y síntesis neuronal en español con **Piper TTS**.
-> - 🔌 **Protocolo MCP Universal & BaaS:** Soporte nativo para **Model Context Protocol (STDIO)** (GitHub, Supabase, Chrome DevTools, Scrapling) y automatización CI/CD con GitHub Actions.
-> - 🛡️ **SecOps, Auditoría & Persistencia:** Memoria cifrada con **AES-128/256 (Fernet)** en SQLite, escaneo de código vía AST, auditoría con Strix en Docker y gestión autónoma mediante Kanban Líquido.
+> - 🧠 **Orquestación Multi-Modelo & Reasoning:** Motor con **Ollama** adaptativo a VRAM (`DeepSeek-R1 14B`, `Qwen3 8B`, `Phi-4`), inferencia descompuesta por capas (**AirLLM** para 70B+) y enrutamiento *Fast-Path* en milisegundos con **Laya System-1**.
+> - ⚙️ **CI/CD Autónomo & GitHub Management:** Generador y auditor autónomo de pipelines de **GitHub Actions** (`core/cicd_manager.py`), poda quirúrgica de logs de CI, autoreparación remota de builds y gestión integral de PRs e issues mediante GitHub MCP.
+> - 🎯 **Dynamic Skill Routing & AutoResearch Loop:** Enrutamiento dinámico en dos capas de habilidades procedimentales, bucle evolutivo de auto-optimización de prompts/workflows con commits/reverts desatendidos (paradigma Karpathy) y catálogo de *Open Agent Skills* (Vercel Labs / skills.sh).
+> - 🚀 **Ruteo Agéntico CLI & Eficiencia:** Delegación inteligente en Capa 4 a herramientas CLI externas (**Antigravity**, **Claude Code**, **Aider**), compresión de trazas para presupuestos estrictos de tokens y reducción del -45% de contexto con la metodología **Ponytail**.
+> - 👥 **Validación Comercial & Repo Inspector:** Motor cognitivo de mercado con **Focus Group sintético de 15 arquetipos de usuario** (WTP, cálculo de viabilidad) y **Repo Inspector** para detección proactiva de dependencias, testing y compatibilidad de entornos.
+> - 👁️ **Agente Web Visual & Headhunter:** Navegación autónoma con **browser-use** y **Playwright** para exploración visual del DOM, evaluación por IA de vacantes y tramitación de postulaciones.
+> - 🗣️ **Voz & Multimodalidad:** Reconocimiento de voz ultra-rápido con **Faster-Whisper**, síntesis neuronal con **Piper TTS**, gateway móvil bidireccional vía **Telegram** y memoria fotográfica con **Recall** (capturas periódicas, OCR y LLaVA).
+> - 🛡️ **Seguridad, BaaS & Persistencia:** Integración nativa de servidores **MCP** (GitHub, Supabase Postgres con RLS, Chrome DevTools), memoria SQLite cifrada con **AES-128/256 (Fernet)**, auditoría de seguridad en contenedor Docker con **Strix** y gestión de tareas mediante **Kanban Líquido con cálculo de ROI**.
 
 ---
 
