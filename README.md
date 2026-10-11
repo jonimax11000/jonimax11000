@@ -97,15 +97,17 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 ---
 
-### 🤖 [JARVIS](https://github.com/jonimax11000/jarvis) — *Asistente Personal Local con IA Autónoma & Orquestador Multi-Agente* `Privado`
-> Asistente de Inteligencia Artificial **100% local, agnóstico de hardware y sin dependencias de la nube**. Diseñado con privacidad total y memoria cifrada, capaz de adaptarse dinámicamente al hardware del sistema (RAM/VRAM) y autoprogramar nuevas capacidades.
+### 🤖 [JARVIS](https://github.com/jonimax11000/jarvis) — *Asistente Personal Local & Ecosistema Omni-Agente Autónomo* `v7.1.0` `Privado`
+> Asistente de Inteligencia Artificial **100% local, agnóstico de hardware y sin dependencias de la nube**, diseñado bajo **SemVer 2.0.0 (`v7.1.0`)**. Arquitectura multi-sistema (Windows/Linux) capaz de balancear dinámicamente el uso de VRAM/RAM, ejecutar pensamiento autónomo en segundo plano y autoprogramar nuevas herramientas con bucles de autorrevisión.
 >
 > **Capacidades & Tecnologías Clave:**
-> - 🧠 **Orquestación de LLMs Locales:** Motor con **Ollama** adaptativo según VRAM (`DeepSeek-R1`, `Qwen3`, `Phi-4`) con modos de razonamiento profundo y auto-descarga.
-> - 🗣️ **Voz & Audio Neuronal:** Reconocimiento de voz ultra-rápido con **Faster-Whisper** y síntesis de voz natural en español con **Piper TTS**.
-> - 👁️ **Agente Web Visual & Headhunter:** Navegación autónoma con **browser-use** y **Playwright** para exploración web interactiva y análisis de ofertas.
-> - 🔌 **Protocolo MCP & Autoprogramación:** Cliente nativo para **Model Context Protocol (STDIO)**, arquitectura de plugins modulares (*Plug & Play*) y bucle de autocorrección de código.
-> - 🔒 **Seguridad & Persistencia:** Memoria a largo plazo en **SQLite** cifrada con **AES-256 (Fernet)** y gestor autónomo de tareas tipo Kanban.
+> - 🧠 **Orquestación Multi-Modelo & Reasoning:** Motor local con **Ollama** adaptativo según VRAM (`DeepSeek-R1`, `Qwen3`, `Phi-4`) para razonamiento profundo, Fast-Path neural con Laya y descarga automática.
+> - 🎯 **Dynamic Skill Routing & AutoResearch:** Enrutamiento inteligente de habilidades (`Fast-Path` + detección de brechas), bucle de optimización evolutiva de workflows y catálogo abierto de *Open Agent Skills*.
+> - 🚀 **Ruteo Agéntico CLI & Multi-Agente:** Delegación en Capa 4 a agentes CLI externos (`Antigravity`, `Claude Code`, `Aider`) con optimización de contexto y ahorro de tokens (-45% con Ponytail).
+> - 👁️ **Agente Web Visual & Headhunter:** Navegación autónoma con **browser-use** y **Playwright** para exploración web interactiva, evaluación inteligente y postulación a ofertas.
+> - 🗣️ **Voz & Audio Neuronal:** Reconocimiento de voz en tiempo real con **Faster-Whisper** y síntesis neuronal en español con **Piper TTS**.
+> - 🔌 **Protocolo MCP Universal & BaaS:** Soporte nativo para **Model Context Protocol (STDIO)** (GitHub, Supabase, Chrome DevTools, Scrapling) y automatización CI/CD con GitHub Actions.
+> - 🛡️ **SecOps, Auditoría & Persistencia:** Memoria cifrada con **AES-128/256 (Fernet)** en SQLite, escaneo de código vía AST, auditoría con Strix en Docker y gestión autónoma mediante Kanban Líquido.
 
 ---
 
