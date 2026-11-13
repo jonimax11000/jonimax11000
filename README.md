@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jonathan+Signes+Falc%C3%B3+%F0%9F%91%8B;Especialista+en+IA+y+Big+Data;Desarrollador+Multiplataforma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jonathan+David+Signes+Falc%C3%B3+%F0%9F%91%8B;Especialista+en+IA+y+Big+Data;Desarrollador+Multiplataforma" alt="Typing SVG" />
 
   <p align="center">
+    <a href="https://jonimax11000.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:jonimax11000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/jonathan-david-signes-falcó-378448262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="tel:+34623294366"><img src="https://img.shields.io/badge/Teléfono-%2B34%20623%20294%20366-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
@@ -97,17 +98,18 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 
 ---
 
-### 🤖 [JARVIS](https://github.com/jonimax11000/jarvis) — *Asistente Personal Local & Ecosistema Omni-Agente Autónomo* `v7.2.0` `Privado`
-> Asistente de Inteligencia Artificial **100% local, agnóstico de hardware y sin dependencias de la nube**, gobernado bajo **SemVer 2.0.0 (`v7.2.0`)** y estructurado en **47 fases de ingeniería agéntica**. Cuenta con arquitectura multi-sistema nativa (Windows, Nobara, CachyOS), balanceo dinámico de VRAM/RAM, demonio de pensamiento proactivo en reposo, micro-agentes con amnesia controlada por sprint y autoprogramación segura.
+### 🤖 [JARVIS](https://github.com/jonimax11000/jarvis) — *Asistente Personal Local & Ecosistema Omni-Agente Autónomo* `v7.4.0` `Privado`
+> Asistente de Inteligencia Artificial **100% local, agnóstico de hardware y sin dependencias de la nube**, gobernado bajo **SemVer 2.0.0 (`v7.4.0`)** y estructurado en un roadmap de ingeniería agéntica de **48+ fases**. Cuenta con arquitectura multi-sistema nativa (Windows, Nobara, CachyOS), balanceo dinámico de VRAM/RAM, demonio de pensamiento proactivo en reposo con auto-pivote de ideas, micro-agentes con amnesia controlada por sprint y autoprogramación segura.
 >
 > **Capacidades & Tecnologías Clave:**
 > - 🧠 **Orquestación Multi-Modelo & Reasoning:** Motor con **Ollama** adaptativo a VRAM (`DeepSeek-R1 14B`, `Qwen3 8B`, `Phi-4`), inferencia descompuesta por capas (**AirLLM** para 70B+) y enrutamiento *Fast-Path* en milisegundos con **Laya System-1**.
 > - ⚙️ **CI/CD Autónomo & GitHub Management:** Generador y auditor autónomo de pipelines de **GitHub Actions** (`core/cicd_manager.py`), poda quirúrgica de logs de CI, autoreparación remota de builds y gestión integral de PRs e issues mediante GitHub MCP.
 > - 🎯 **Dynamic Skill Routing & AutoResearch Loop:** Enrutamiento dinámico en dos capas de habilidades procedimentales, bucle evolutivo de auto-optimización de prompts/workflows con commits/reverts desatendidos (paradigma Karpathy) y catálogo de *Open Agent Skills* (Vercel Labs / skills.sh).
 > - 🚀 **Ruteo Agéntico CLI & Eficiencia:** Delegación inteligente en Capa 4 a herramientas CLI externas (**Antigravity**, **Claude Code**, **Aider**), compresión de trazas para presupuestos estrictos de tokens y reducción del -45% de contexto con la metodología **Ponytail**.
-> - 👥 **Validación Comercial & Repo Inspector:** Motor cognitivo de mercado con **Focus Group sintético de 15 arquetipos de usuario** (WTP, cálculo de viabilidad) y **Repo Inspector** para detección proactiva de dependencias, testing y compatibilidad de entornos.
-> - 👁️ **Agente Web Visual & Headhunter:** Navegación autónoma con **browser-use** y **Playwright** para exploración visual del DOM, evaluación por IA de vacantes y tramitación de postulaciones.
-> - 🗣️ **Voz & Multimodalidad:** Reconocimiento de voz ultra-rápido con **Faster-Whisper**, síntesis neuronal con **Piper TTS**, gateway móvil bidireccional vía **Telegram** y memoria fotográfica con **Recall** (capturas periódicas, OCR y LLaVA).
+> - 👥 **Validación Comercial & Auto-Pivote de Ideas:** Motor cognitivo con **Focus Group sintético de 15 arquetipos de usuario** (WTP, cálculo de viabilidad), poda comercial desatendida y re-formulación/pivote de ideas ante objeciones de mercado.
+> - 💼 **Headhunter, Freelance Hunter & CV Bimodal:** Prospección y evaluación autónoma de vacantes y proyectos freelance reales por la web (`browser-use` / Playwright), junto a un generador adaptativo de CVs en PDF que sincroniza dinámicamente el perfil de **LinkedIn** con los repositorios y métricas de **GitHub**.
+> - 🗺️ **Documentación Visual Interactiva (Archify):** Generación automática de mapas de arquitectura interactivos en HTML autónomo (`docs/arquitectura.html`) con animaciones de flujo de datos, modo oscuro/claro y trazado de dependencias del sistema.
+> - 🗣️ **Voz & Multimodalidad:** Reconocimiento de voz en tiempo real con **Faster-Whisper**, síntesis neuronal con **Piper TTS**, gateway móvil bidireccional vía **Telegram** y memoria fotográfica con **Recall** (capturas periódicas, OCR y LLaVA).
 > - 🛡️ **Seguridad, BaaS & Persistencia:** Integración nativa de servidores **MCP** (GitHub, Supabase Postgres con RLS, Chrome DevTools), memoria SQLite cifrada con **AES-128/256 (Fernet)**, auditoría de seguridad en contenedor Docker con **Strix** y gestión de tareas mediante **Kanban Líquido con cálculo de ROI**.
 
 ---
