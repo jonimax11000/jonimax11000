@@ -68,8 +68,8 @@ Soy graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmen
 <br/>
 
 <!-- Estadísticas calculadas automáticamente en tiempo real por GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+<img src="https://github-stats-extended.vercel.app/api?username=jonimax11000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jonimax11000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 
 <br/>
 
