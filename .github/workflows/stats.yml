@@ -1,0 +1,51 @@
+name: Generate GitHub Stats
+
+on:
+  # Ejecutar automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permitir ejecución manual desde la pestaña Actions
+  workflow_dispatch:
+
+  # Ejecutar en push a la rama principal (sin bucle infinito al commitear los SVG)
+  push:
+    branches:
+      - main
+      - master
+    paths-ignore:
+      - "profile/*.svg"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar stats.svg (con repositorios privados)
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117"
+          path: profile/stats.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Generar top-langs.svg (con repositorios privados)
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
+          path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Commit y push de los SVG generados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          git diff --cached --quiet || (git commit -m "chore: update GitHub stats SVGs" && git push)
+
