@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jonathan+David+Signes+Falc%C3%B3+%F0%9F%91%8B;Especialista+en+IA+y+Big+Data;Desarrollador+Multiplataforma" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://jonimax11000.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://jonimax11000.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:jonimax11000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/jonathan-david-signes-falcó-378448262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="tel:+34623294366"><img src="https://img.shields.io/badge/Teléfono-%2B34%20623%20294%20366-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
